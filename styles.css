@@ -45,10 +45,11 @@ html {
     border-radius: 0.5rem;
     width: 100%;
     max-width: 325px;
+    width: fit-content;
 
   }
 
-
+  
 
   .input:focus {
     border: 3px solid #555;
@@ -77,5 +78,8 @@ html {
     color: white;
   }
 
- /* Made With Love By Abhiii  */
+
+ 
+  
+ /* Made With Love By Abhiii  Mali   Coder Hacker  */
 
