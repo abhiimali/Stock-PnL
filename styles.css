@@ -45,6 +45,7 @@ html {
     border-radius: 0.5rem;
     width: 100%;
     max-width: 325px;
+    width: auto;
 
   }
 
@@ -77,5 +78,8 @@ html {
     color: white;
   }
 
+
+ 
+  
  /* Made With Love By Abhiii  */
 
